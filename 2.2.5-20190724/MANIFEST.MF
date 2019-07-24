@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: cron4j-osgi
+Bundle-SymbolicName: cron4j-osgi
+Bundle-Version: 2.2.5
+Automatic-Module-Name: cron4j-osgi
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: it.sauronsoftware.cron4j;version="2.2.5"
+Bundle-Vendor: Sauron Software
